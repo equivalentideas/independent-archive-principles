@@ -12,7 +12,7 @@
 
 ###  Use open standards
 
-Presenting records/data in a consistent, standardised, common format reduces the cost for others to use and act upon them. Open, long-lived formats, standards and structures have a better chance of lasting over time than closed, proprietary standards.
+Presenting records and data in a consistent, standardised, common format reduces the cost for others to use and act upon them. Open and long-lived formats, standards and structures have a better chance of lasting over time than closed, proprietary standards.
 
 
 ### Think long term
@@ -36,7 +36,7 @@ Make the legal accessibility of your project clear: what rights are reserved and
 
 It’s important to store a copy of the original records as you found them. You don't know what extra interest that master copy may acquire in the future.
 
-Sometimes, presenting this original record may be difficult and even problematic. It’s more important that people can access *something* rather than nothing. If in fact many people might need to access a version with a smaller filesize, or just the meta-data. Don't commit to presenting the largest amount of data or being concerned too soon with the highest fidelity or granularity.
+Sometimes, presenting this original record may be difficult and even problematic. It’s more important that people can access *something* rather than nothing. Many people might need to access a version with a smaller filesize, or only the meta-data. Don't commit to presenting the largest amount of data or being concerned too soon with the highest fidelity or granularity.
 
 
 ### Work together
