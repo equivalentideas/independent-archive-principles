@@ -27,21 +27,21 @@ Provide clarity over quantity. Build something small. Even just a few dozen docu
 
 ### Strive for universal accessibility, be accessible by default
 
-Provide multiple ways to access the same content. Usability and accessibility must be at the core of an archive. Machine Readability is also there: make your project useful to other projects, devices, search engines, scrapers etc.
+Provide multiple ways to access the same content. Usability and accessibility must be at the core of an archive. Machine readability is also key: make your project useful to other projects, devices, search engines, scrapers, and so on. Your future audience may not *only* be humans.
 
-Make the legal accessibility of your project clear: what rights are reserved and how may others use the work? Wide accessibility can support [redundancy](http://en.wikipedia.org/wiki/Digital_preservation#Replication 'Wikipedia entry for Digital Preservation, section Strategies, Replication') (backup copies).
+Make the legal accessibility of your project clear: what rights are reserved and how may others use the work? Wide accessibility can support [redundancy](http://en.wikipedia.org/wiki/Digital_preservation#Replication 'Wikipedia entry for Digital Preservation, section Strategies, Replication') through backup copies.
 
 
-### Store the original record, present its essense over its resolution
+### Store the original record, present its essence over its resolution
 
 It’s important to store a copy of the original records as you found them. You don't know what extra interest that master copy may acquire in the future.
 
-Sometimes, presenting this original record may be difficult and even problematic. It’s more important that people can access *something* rather than nothing. If in fact many people might need to access a version with a smaller filesize, or just the meta-data. Don't get hung-up on presenting the largest, HD-est version.
+Sometimes, presenting this original record may be difficult and even problematic. It’s more important that people can access *something* rather than nothing. If in fact many people might need to access a version with a smaller filesize, or just the meta-data. Don't commit to presenting the largest amount of data or being concerned too soon with the highest fidelity or granularity.
 
 
 ### Work together
 
-Invite feedback and new perspectives. It’s the network that enables these projects and makes them valuable by massively increasing how information can be combined. Provide helpful links between projects as much as possible. Share and discuss your methods.
+Invite feedback and new perspectives. The network enables these projects and makes them valuable by massively increasing how information can be combined. Provide helpful links between projects as much as possible. Share and discuss your methods.
 
 
 ### Be wary of other people’s ideas
