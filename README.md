@@ -1,5 +1,5 @@
-independent-archive-principles
-==============================
+Principles for Independent Archives
+===================================
 
 A set of starting point principles for independent, public-interest archive projects.
 
@@ -7,7 +7,7 @@ A set of starting point principles for independent, public-interest archive proj
 
 This repository contains some broad, basic goals for an independent archive project and design principles which could help the project achieve them.
 
-See the introductory article at Equivalent Ideas: [Approaching Principles for Independent Archives](equivalentideas.com/journal/approaching-principles-for-independent-archives/ 'What should an independent archive do? Some starter ideas and an invitation for contributions, posted 17th February 2014')
+See the introductory article at Equivalent Ideas: [Approaching Principles for Independent Archives](http://equivalentideas.com/journal/approaching-principles-for-independent-archives/ 'What should an independent archive do? Some starter ideas and an invitation for contributions, posted 17th February 2014')
 
 This is meant to be the start of a conversation. Any kind of rough contribution or idea is very, very welcome.
 
