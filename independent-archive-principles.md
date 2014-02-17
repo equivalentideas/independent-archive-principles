@@ -41,7 +41,7 @@ Sometimes, presenting this original record may be difficult and even problematic
 
 ### Work together
 
-Invite feedback and new perspectives. The network enables these projects and makes them valuable by massively increasing how information can be combined. Provide helpful links between projects as much as possible. Share and discuss your methods.
+Invite feedback and new perspectives. The network enables these projects and makes them valuable by massively increasing how information can be combined—support the network in turn. Provide helpful links between projects as much as possible. Share and discuss your methods.
 
 
 ### Be wary of other people’s ideas
