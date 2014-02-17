@@ -17,7 +17,7 @@ Presenting records and data in a consistent, standardised, common format reduces
 
 ### Think long term
 
-From day one, plan for shut down. All projects end. Small, under-resourced, personal projects are not excluded. Discuss and have a plan for this situation. If possible, the records should remain accessible long after work has stopped on the project.
+From day one, plan for shut down. All projects end. Small, under-resourced, personal projects are not excluded. Discuss and have a plan for this situation. If possible, the records should remain accessible long after work on the project has stopped.
 
 
 ### Stay small, let others create meta-collections
@@ -34,7 +34,7 @@ Make the legal accessibility of your project clear: what rights are reserved and
 
 ### Store the original record, present its essence over its resolution
 
-It’s important to store a copy of the original records as you found them. You don't know what extra interest that master copy may acquire in the future.
+It’s important to store a copy of the original records as you found them. You can’t predict what extra interest that master copy may acquire in the future.
 
 Sometimes, presenting this original record may be difficult and even problematic. It’s more important that people can access *something* rather than nothing. Many people might need to access a version with a smaller filesize, or only the meta-data. Don't commit to presenting the largest amount of data or being concerned too soon with the highest fidelity or granularity.
 
@@ -48,4 +48,4 @@ Invite feedback and new perspectives. The network enables these projects and mak
 
 Properly documented, your project’s failures may be more valuable to the community than its successes. If you think something will further your project’s goals, try it.
 
-As long as it supports your goals, stay independent. If another entity is offering to take over work or contribute to the project, concider whether their priorities are fully compatible with the goals of your project.
+As long as it supports your goals, stay independent. If another entity is offering to take over work or contribute to the project, consider whether their priorities are fully compatible with the goals of your project.
