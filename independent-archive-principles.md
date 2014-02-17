@@ -36,7 +36,7 @@ Make the legal accessibility of your project clear: what rights are reserved and
 
 It’s important to store a copy of the original records as you found them. You can’t predict what extra interest that master copy may acquire in the future.
 
-Sometimes, presenting this original record may be difficult and even problematic. It’s more important that people can access *something* rather than nothing. Many people might need to access a version with a smaller filesize, or only the meta-data. Don't commit to presenting the largest amount of data or being concerned too soon with the highest fidelity or granularity.
+Sometimes, presenting this original record may be difficult and even problematic. It’s more important that people can access *something* rather than nothing. Many people might need to access a version with a smaller filesize, or only the meta-data.
 
 
 ### Work together
