@@ -27,7 +27,7 @@ Provide clarity over quantity. Build something small. Even just a few dozen docu
 
 ### Strive for universal accessibility, be accessible by default
 
-Provide multiple ways to access the same content. Usability and accessibility must be at the core of an archive. Machine readability is also key: make your project useful to other projects, devices, search engines, scrapers, and so on. Your future audience may not *only* be humans.
+Provide multiple ways to access the same content. Usability and accessibility must be at the core of an archive. Machine readability is also key: make your project useful to other projects, devices, search engines, scrapers, and so on.
 
 Make the legal accessibility of your project clear: what rights are reserved and how may others use the work? Wide accessibility can support [redundancy](http://en.wikipedia.org/wiki/Digital_preservation#Replication 'Wikipedia entry for Digital Preservation, section Strategies, Replication') through backup copies.
 
