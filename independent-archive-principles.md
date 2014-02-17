@@ -1,23 +1,6 @@
 # Principles for Indendent Archives
 
-Here are some broad, basic goals for an independent archive project and design principles which could help the project achieve them.
 
-This is meant to be the start of a conversation. Any kind of rough contribution or idea is very, very welcome.
-
-Contributions could include:
-
-* leaving a comment of any length with a response or thought about what an independent archive should do;
-* making suggestions for adding or cutting principles;
-* suggesting references for more information on individual principles;
-* improving the explanations of principles; and/or
-* pointing out how wording could be improved/typos etc. .
-
-<!-- Copyright license stuff -->
-
-<p xmlns:dct="http://purl.org/dc/terms/" xmlns:vcard="http://www.w3.org/2001/vcard-rdf/3.0#"><em><cite property="dct:title"><a href="http://equivalentideas.com/journal/approaching-principles-for-independent-archives/#principles" title="Principles for Independent Archives">Principles for Independent Archives</a></cite> is licensed under a <a rel="license" href="http://creativecommons.org/publicdomain/zero/1.0/" title="See the license">CC0 1.0 Universal, Public Domain Dedication</a>. To the extent possible under law, <a rel="dct:publisher"
-href="http://equivalentideas.com"><span property="dct:title">Luke Bacon</span></a> has waived all copyright and related or neighboring rights to <cite property="dct:title"><a href="http://equivalentideas.com/journal/approaching-principles-for-independent-archives/#principles" title="Principles for Independent Archives">Principles for Independent Archives</a></cite>. If you make a contribution in the <a href="http://equivalentideas.com/journal/approaching-principles-for-independent-archives/#disqus_thread" title="Comment section for Principles for Independent Archives at equivalentideas.com">comments system</a> or make <a href="https://github.com/equivalentideas/home/blob/gh-pages/_includes/independent-archive-principles.md" title="GitHub repository for Principles for Independent Archives.">edits through GitHub</a> and they are added or used in the original text your contribution will also fall under this license to make it as reuseable to others as possible.</em></p>
-
-<!-- end Copyright license stuff -->
 
 ## Goals for an independent archive
 
