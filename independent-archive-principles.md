@@ -1,4 +1,4 @@
-# Principles for Indendent Archives
+# Principles for Independent Archives
 
 
 ## Goals for an independent archive
@@ -12,7 +12,7 @@
 
 ###  Use open standards
 
-Presenting records/data in a consistant, standardised, common format reduces the cost for others to use and act upon them. Open, long-lived formats, standards and structures have a better chance of lasting over time than closed, proprietary standards.
+Presenting records/data in a consistent, standardised, common format reduces the cost for others to use and act upon them. Open, long-lived formats, standards and structures have a better chance of lasting over time than closed, proprietary standards.
 
 
 ### Think long term
