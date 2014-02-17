@@ -29,7 +29,7 @@ Provide clarity over quantity. Build something small. Even just a few dozen docu
 
 Provide multiple ways to access the same content. Usability and accessibility must be at the core of an archive. Machine readability is also key: make your project useful to other projects, devices, search engines, scrapers, and so on.
 
-Make the legal accessibility of your project clear: what rights are reserved and how may others use the work? Wide accessibility can support [redundancy](http://en.wikipedia.org/wiki/Digital_preservation#Replication 'Wikipedia entry for Digital Preservation, section Strategies, Replication') through backup copies.
+Make the legal accessibility of your project clear: what rights are reserved and how may others use the work? Wide accessibility can support [redundancy](http://en.wikipedia.org/wiki/Digital_preservation#Replication 'Wikipedia entry for Digital Preservation, section Strategies, Replication') by allowing and supporting other people to create backup copies.
 
 
 ### Store the original record, present its essence over its resolution
