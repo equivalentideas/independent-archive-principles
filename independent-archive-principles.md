@@ -44,8 +44,10 @@ Sometimes, presenting this original record may be difficult and even problematic
 Invite feedback and new perspectives. The network enables these projects and makes them valuable by massively increasing how information can be combined—support the network in turn. Provide helpful links between projects as much as possible. Share and discuss your methods.
 
 
-### Be wary of other people’s ideas
+### Believe in your ideas, an independent perspective is worth a lot
 
 Properly documented, your project’s failures may be more valuable to the community than its successes. If you think something will further your project’s goals, try it.
 
 As long as it supports your goals, stay independent. If another entity is offering to take over work or contribute to the project, consider whether their priorities are fully compatible with the goals of your project.
+
+In confronting the enormous challenges facing archivists, journalists and others looking to promote diverse public access to knowledge we need a multitude of approaches to find workable solutations.
